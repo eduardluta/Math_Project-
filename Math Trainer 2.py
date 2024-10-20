@@ -4,6 +4,8 @@ from tkinter import messagebox
 from PIL import Image, ImageTk
 import os
 
+# This is an edit for testing purposes
+
 # Initialize score
 score = 0
 
